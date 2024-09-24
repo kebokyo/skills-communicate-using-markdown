@@ -12,3 +12,7 @@ The most notable limitation is that Gemtext does not support inline links. Yup. 
 # Footnotes
 => http://picard.ytmnd.com/ [1] like this
 ```
+
+- [x] Solve the mystery of the "kebab menu"
+- [ ] Figure out how to make these checkmarks in my own site
+- [ ] update my GitHub profile for finding jobs
